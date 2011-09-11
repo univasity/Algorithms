@@ -1,7 +1,7 @@
-��Ҫ���ڼ�¼���˵��㷨ѧϰ��
+﻿主要用于记录个人的算法学习。
 
-com.utils - һЩ���õ��㷨������װ
+com.utils - 一些常用的算法函数封装
 
-com.demos - һЩ�����㷨��ʵ��ʾ��
+com.demos - 一些复杂算法的实现示例
 
-com.questions - �㷨��&�������
+com.questions - 算法题&解决方案
